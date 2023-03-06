@@ -5,4 +5,4 @@ I have experience building RESTful APIs, integrating with external APIs, managin
 
 I'm proficient in using Git, GitHub and Slack for version control and team collaboration, and I have experience working in agile environments. Additionally, I have knowledge of Dagger for dependency injection and React for front-end development.
 
-I'm always eager to learn new technologies and techniques to improve my skills and contribute to the success of the project. I'm a team player and committed to delivering quality work within deadlines.
+I'm always eager to learn new technologies and techniques to improve my skills and contribute to the success of a project. I'm a team player and committed to delivering quality work within deadlines.
