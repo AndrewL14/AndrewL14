@@ -12,6 +12,8 @@ For more information about me check out my [portfolio](https://andrewl14.github.
 </p>
 
 ---
+### Daily average
+<img src="https://wakatime.com/badge/github/AndrewL14/Student-tracker-API.svg" />
   
 ### Languages and Tools:
 
