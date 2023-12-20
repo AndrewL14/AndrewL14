@@ -12,7 +12,7 @@ For more information about me check out my [portfolio](https://andrewl14.github.
 </p>
 
 ---
-### Weekly average
+### Waka time
 <img src="https://wakatime.com/badge/github/AndrewL14/Student-tracker-API.svg" />
   
 ### Languages and Tools:
